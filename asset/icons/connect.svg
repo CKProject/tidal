@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24.442" height="22.739" viewBox="0 0 24.442 22.739">
+  <g id="connect" transform="translate(-52.259 -832.787)">
+    <path id="패스_15" data-name="패스 15" d="M665.083,833.787H651.259v20.739h13.824" transform="translate(-598)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" opacity="0.8"/>
+    <g id="타원_21" data-name="타원 21" transform="translate(56.5 841.5)" fill="none" stroke="#fff" stroke-width="2" opacity="0.8">
+      <circle cx="4.75" cy="4.75" r="4.75" stroke="none"/>
+      <circle cx="4.75" cy="4.75" r="3.75" fill="none"/>
+    </g>
+    <circle id="타원_22" data-name="타원 22" cx="2" cy="2" r="2" transform="translate(59 836.5)" fill="#fff" opacity="0.8"/>
+    <path id="패스_16" data-name="패스 16" d="M667.393,839.3a7.216,7.216,0,0,1,1.825,4.693,7.545,7.545,0,0,1-1.825,4.647" transform="translate(-598)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" opacity="0.8"/>
+    <path id="패스_17" data-name="패스 17" d="M666.777,836.308a13.065,13.065,0,0,1,2.922,7.883,12.674,12.674,0,0,1-2.922,7.592" transform="translate(-594)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" opacity="0.8"/>
+  </g>
+</svg>

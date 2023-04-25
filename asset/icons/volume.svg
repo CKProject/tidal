@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21" height="20.5" viewBox="0 0 21 20.5">
+  <g id="volume" transform="translate(-340 -78.5)">
+    <g id="타원_12" data-name="타원 12" transform="translate(346 84)" fill="none" stroke="#fff" stroke-width="2">
+      <circle cx="4.5" cy="4.5" r="4.5" stroke="none"/>
+      <circle cx="4.5" cy="4.5" r="3.5" fill="none"/>
+    </g>
+    <line id="선_7" data-name="선 7" y2="9" transform="translate(354 79.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2" opacity="0.997"/>
+    <circle id="타원_13" data-name="타원 13" cx="2" cy="2" r="2" transform="translate(357 83)" fill="#fff"/>
+    <circle id="타원_14" data-name="타원 14" cx="2" cy="2" r="2" transform="translate(357 90)" fill="#fff" opacity="0.9"/>
+    <circle id="타원_15" data-name="타원 15" cx="2" cy="2" r="2" transform="translate(352 95)" fill="#fff" opacity="0.8"/>
+    <circle id="타원_16" data-name="타원 16" cx="2" cy="2" r="2" transform="translate(345 95)" fill="#fff" opacity="0.7"/>
+    <circle id="타원_17" data-name="타원 17" cx="2" cy="2" r="2" transform="translate(340 90)" fill="#fff" opacity="0.6"/>
+    <circle id="타원_18" data-name="타원 18" cx="2" cy="2" r="2" transform="translate(340 83)" fill="#fff" opacity="0.5"/>
+    <circle id="타원_19" data-name="타원 19" cx="2" cy="2" r="2" transform="translate(345 79)" fill="#fff" opacity="0.4"/>
+  </g>
+</svg>
